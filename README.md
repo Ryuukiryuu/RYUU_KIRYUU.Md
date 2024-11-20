@@ -162,4 +162,3 @@ def main():
    - Nilai akhir = (Tugas × 30%) + (UTS × 35%) + (UAS × 35%)
    - Menggunakan pembobotan sesuai ketentuan
 
-Apakah ada bagian tertentu yang ingin Anda pahami lebih dalam?
